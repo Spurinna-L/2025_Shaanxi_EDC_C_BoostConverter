@@ -1,0 +1,16 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\12092\Desktop\.lyz\电赛选拔赛\硬件部分\LTspices仿真\boost_DC-DC.net
+Start Time: Fri May 22 00:43:17 2026
+solver = Normal
+Maximum thread count: 22
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 1.772 seconds.
+
+Files loaded:
+C:\Users\12092\Desktop\.lyz\电赛选拔赛\硬件部分\LTspices仿真\boost_DC-DC.net
+C:\Users\12092\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\12092\AppData\Local\LTspice\lib\cmp\standard.mos
+
